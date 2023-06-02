@@ -6,8 +6,16 @@ main{
     width: 100px;
     height: 100px;
     margin: 5px;
-    border: 5px solid plum;
+    border: 5px solid rgb(55, 124, 177);
     border-radius: 6px;
     font-size: 30px;
     cursor: pointer;
+}
+
+body {
+    background-color: plum;
+}
+
+input {
+    background-color: rgb(225, 88, 134);
 }
